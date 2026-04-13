@@ -1,0 +1,12 @@
+{
+  "export_job_id": "39ec1239-896a-47ec-97d3-455372024553",
+  "id_short": 715915,
+  "published_at": "2026-04-13T07:36:25Z",
+  "repo_name": "tech-ready-restaurants-in-the-austin-round-rock-san-marcos-metro-area-tx-us-sample-715915",
+  "sample_asset_name": "beamstation_715915_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/715915/beamstation_715915_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "17207be112e5b9ed95f5a6adfc79714a320d1e42488b26535f0166c72ac4764a",
+  "sample_size_bytes": 24785,
+  "total_records": 21
+}
