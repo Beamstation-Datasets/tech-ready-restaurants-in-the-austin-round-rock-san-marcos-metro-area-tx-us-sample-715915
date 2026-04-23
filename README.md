@@ -9,9 +9,9 @@
 | Dataset ID | `715915` |
 | Location | Austin-Round Rock-San Marcos, TX |
 | Category | Restaurants |
-| Full dataset size | 15 records |
-| Free sample size | 1 records (6.67%) |
-| Last export | 2026-04-15T10:48:33.155600+00:00 |
+| Full dataset size | 6 records |
+| Free sample size | 1 records (16.67%) |
+| Last export | 2026-04-22T18:48:11.312358+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-austin-round-rock-san-marcos-metro-area-tx-us-sample-715915/releases/download/sample-latest/beamstation_715915_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
